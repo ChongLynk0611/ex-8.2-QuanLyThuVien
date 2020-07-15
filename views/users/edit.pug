@@ -1,0 +1,6 @@
+h1 Edit users
+p Name: #{user.name}
+form(action="/users/edit/"+user.id , method="POST")
+    input(name="name" type="text")
+    button edit
+a(href="/users") back
