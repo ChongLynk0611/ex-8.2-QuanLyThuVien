@@ -20,5 +20,14 @@
       "id": "lPGCHT_R2"
     }
   ],
-  "transaction": []
+  "transaction": [
+    {
+      "idBook": "L0gw6B3AL",
+      "idUser": "btg8PvTX8"
+    },
+    {
+      "idBook": "L0gw6B3AL",
+      "idUser": "btg8PvTX8"
+    }
+  ]
 }
